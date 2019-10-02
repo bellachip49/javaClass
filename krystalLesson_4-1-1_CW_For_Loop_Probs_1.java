@@ -78,6 +78,22 @@ public class Problem5{
         }
     }
 }
+//Output
+// * * * * * * *
+// * * * * * * *
+// * * * * * * *
+// * * * * * * *
+// * * * * * * *
+
+//Another answer, but using a string of stars
+public class Problem5{
+    public static void main(String [] args){
+        String starString = "* * * * * * *";
+        for(int k = 1; k < 6; k++){
+            System.out.println(starString);
+        }
+    }
+}
 
 //Output
 // * * * * * * * 
@@ -103,25 +119,103 @@ public class Problem6{
 //The factorial of 8 is 40320.
 
 //Problem7 Write a class named Problem7 with a main method and a for loop to find the average of the number 17 to 25
+public class Problem7{
+    public static void main(String [] args){
+        int sum = 0;
+        int mean = 0;
+
+        for(int i = 17; i <= 25; i++){
+            sum += i;
+            mean++;
+        }
+        mean = sum / mean;
+        System.out.println("The average is " + mean + ".");
+    }
+}
+//Output
+//The average is 21.
 
 //Problem8 Write a class named Problem8 with a main method and a for loop to find the sum of the odd numbers from 1 to 15
+public class Problem8{
+    public static void main(String [] args){
+        int sum = 0;
+
+        for(int i = 1; i <= 15; i += 2){
+            sum += i;
+        }
+        System.out.println("The sum of the odd numbers from 1 to 15 is " + sum + ".");
+    }
+}
+//Output
+//The sum of the odd numbers from 1 to 15 is 64.
 
 //Problem9 Write a class named Problem4 with a main method and a for loop to print each letter of this String: 
-//"Crosspoint Academy" with a space between the letters
+//"Crosspoint Academy" with a space between the letters on the same line
+public class Problem9{
+    public static void main(String [] args){
+        String name = "Crosspoint Academy";
 
+        for(int i = 0; i <= (name.length() - 1); i++){
+            System.out.print(name.charAt(i) + " ");
+        }
+    }
+}
+//Output
+//C r o s s p o i n t   A c a d e m y 
 //Problem10  Write a class named Problem5 with a main method and a for loop that prints each value in the following array with one value per line:
 int [] primeArray = {2, 3, 5, 7, 11, 13, 17, 23, 29};
+
+public class Problem10{
+    public static void main(String [] args){
+        for(int i = 0; i <= (primeArray.length - 1); i++){
+            System.out.println(primeArray[i]);
+        }
+    }
+}
+//Output
+// 2
+// 3
+// 5
+// 7
+// 11
+// 13
+// 17
+// 23
+// 29
 
 //Problem11 Write a class named Problem6 with a main method and a for loop that subtracts 2 to each value in the 
 //following array, then prints those values on a single line with spaces between the numbers:
 int [] primeArray = {2, 3, 5, 7, 11, 13, 17, 23, 29};
+public class Problem11{
+    public static void main(String [] args){
+        for(int i = 0; i <= (primeArray.length - 1); i++){
+            System.out.print(primeArray[i]-2 + " ");
+        }
+    }
+}
+//Output
+//0 1 3 5 9 11 15 21 27 
 
 //Problem12 Write a class named Problem4 with a main method and a for loop that subtracts 2 to each value in the 
 //following array, then puts those values into a new array called primeArray2
 int [] primeArray = {2, 3, 5, 7, 11, 13, 17, 23, 29};
+public class Problem12{
+    public static void main(String [] args){
+        int [] newArray = new int[primeArray.length];
 
+        for(int i = 0; i <= primeArray.length -1; i++){
+            newArray[i] = primeArray[i] - 2;
+        }
+
+        for(int j = 0; j <= primeArray.length -1; j++){
+            System.out.println(newArray[j]);
+        }
+    }
+}
 //Problem13 Write a class named Problem4 with a main method and a for loop that takes a number and find the number of digits (ASK MRS C FOR HELP HERE)
-
+public class Problem13{
+    
+}
 //Problem14 Write a class named Problem4 with a main method and a for loop takes the numbers 1 to 21 inclusive and find both the average and the sum
 
 //Problem15 Write a class named Problem4 with a main method and a for loop that takes the numbers 1 to 10 and prints the sum of the cubes of those numbers
