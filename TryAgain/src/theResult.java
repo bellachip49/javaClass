@@ -1,12 +1,11 @@
 public class theResult {
     public static void main(String [] args){
-        int num = 45;
-        if((num / 10 > 0) && (num / 10 <= 9)){
-            System.out.println("One digit");
+        int cubedSum = 0;
+
+        for(int i = 1; i <= 10; i++){
+            cubedSum += (i * i * i);
         }
-        else{
-            System.out.println("invalid");
-        }
+        System.out.println("The sum of the cubed integers from 1 to 10 is " + cubedSum + ".");
     }
 }
 // 1234/10=123

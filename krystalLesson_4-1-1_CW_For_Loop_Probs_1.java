@@ -212,13 +212,57 @@ public class Problem12{
         }
     }
 }
+//Output
+// 0
+// 1
+// 3
+// 5
+// 9
+// 11
+// 15
+// 21
+// 27
+
 //Problem13 Write a class named Problem4 with a main method and a for loop that takes a number and find the number of digits (ASK MRS C FOR HELP HERE)
 public class Problem13{
-    
-}
-//Problem14 Write a class named Problem4 with a main method and a for loop takes the numbers 1 to 21 inclusive and find both the average and the sum
+    public static void main(String [] args){
+        int givenNumber = insert number here;
+        int digitCounter = 0;
 
+        for(int i = givenNumber; i != 0; i /= 10){
+            digitCounter++;
+        }
+        if(givenNumber == 0)
+        {
+            System.out.println("The number is a 1 digit number.");
+        }
+        else
+        {
+            System.out.println("The number is a " + digitCounter + " digit number.");
+        }
+    }
+}
+//Output
+//Example number: 123456789
+//The number is a 9 digit number.
+
+//Problem14 Write a class named Problem4 with a main method and a for loop takes the numbers 1 to 21 inclusive and find both the average and the sum
+public class Problem14{
+
+}
 //Problem15 Write a class named Problem4 with a main method and a for loop that takes the numbers 1 to 10 and prints the sum of the cubes of those numbers
+public class Problem15{
+    public static void main(String [] args){
+        int cubedSum = 0;
+
+        for(int i = 1; i <= 10; i++){
+            cubedSum += (i * i * i);
+        }
+        System.out.println("The sum of the cubed integers from 1 to 10 is " + cubedSum + ".");
+    }
+}
+//Output
+//The sum of the cubed integers from 1 to 10 is 3025.
 
 EXTRA CREDIT PROBLEM:  DO NOT TALK TO CLASSMATES OR LOOK ON INTERNET FOR THIS PROBLEM.  ALSO MRS C WILL NOT ANSWER QUESTIONS ABOUT THIS PROBLEM
 //Write a class named ECProblem with a main method and a for loop that calculates the sum of the following series where n is input by the user
