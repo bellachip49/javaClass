@@ -1,11 +1,12 @@
 public class theResult {
     public static void main(String [] args){
-        int cubedSum = 0;
+        int sum = 0;
 
-        for(int i = 1; i <= 10; i++){
-            cubedSum += (i * i * i);
+        for(int i = 0; i < 21; i++){
+            System.out.print(i + " ");
+            sum += i;
         }
-        System.out.println("The sum of the cubed integers from 1 to 10 is " + cubedSum + ".");
+        System.out.println("\nThe sum is " + sum + ".");
     }
 }
 // 1234/10=123

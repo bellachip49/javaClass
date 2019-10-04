@@ -62,6 +62,10 @@ public class Problem4{
         System.out.println("\nThe sum is " + sum + ".");
     }
 }
+//Output
+//0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+//The sum is 210.
+
 //Problem5 Write a class named Problem5 with a main method and a for loop that prints 5 rows of 7 stars (Suggestion: make a String of stars)
 * * * * * * *
 * * * * * * *
@@ -248,8 +252,23 @@ public class Problem13{
 
 //Problem14 Write a class named Problem4 with a main method and a for loop takes the numbers 1 to 21 inclusive and find both the average and the sum
 public class Problem14{
+    public static void main(String [] args){
+        int sum = 0;
+        int average = 0;
 
+        for(int i = 1; i <= 21; i++){
+            sum += i;
+            average++;
+        }
+        average = sum / average;
+        System.out.println("The sum is " + sum + ".");
+        System.out.println("The average is " + average + ".");
+    }
 }
+//Output
+// The sum is 231.
+// The average is 11.
+
 //Problem15 Write a class named Problem4 with a main method and a for loop that takes the numbers 1 to 10 and prints the sum of the cubes of those numbers
 public class Problem15{
     public static void main(String [] args){
