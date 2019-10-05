@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="10925cdc-8a6f-40ca-b387-df3ba8280e0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/theResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../krystalLesson_4-0-3_HW_While_loops_Probs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../krystalLesson_4-0-3_HW_While_loops_Probs.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

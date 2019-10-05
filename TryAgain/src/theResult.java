@@ -1,16 +1,20 @@
 public class theResult {
     public static void main(String [] args){
-        int sum = 0;
-        int average = 0;
+        int numberOfRows = 5;
+        int width = 3;
+        String letterA = "a ";
+        int i = 0;
+        int j = 0;
 
-        for(int i = 21; i <= 31; i++){
-           System.out.print(i + " ");
-           sum += i;
-           average++;
+        while(i <= numberOfRows){
+            while(j <= width){
+                System.out.print(letterA);
+                j++;
+            }
+            j = 0;
+            System.out.print("\n");
+            i++;
         }
-        average = sum / average;
-        System.out.println("\nThe sum is " + sum + ".");
-        System.out.println("The average is " + average + ".");
     }
 }
 // 1234/10=123
