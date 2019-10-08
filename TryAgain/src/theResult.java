@@ -1,19 +1,15 @@
 public class theResult {
-    public static void main(String [] args){
-        int numberOfRows = 5;
-        int width = 3;
-        String letterA = "a ";
-        int i = 0;
-        int j = 0;
+    public static void main(String args[])
+    {
+        int i, j;
 
-        while(i <= numberOfRows){
-            while(j <= width){
-                System.out.print(letterA);
-                j++;
+        for(i = 0; i < 10; i++)//loop until i is greater or equal to 10
+        {
+            for(j = 0; j < i; j++) //loop until j is greater or equal to i
+            {
+                System.out.print("*");
             }
-            j = 0;
-            System.out.print("\n");
-            i++;
+            System.out.println();
         }
     }
 }
