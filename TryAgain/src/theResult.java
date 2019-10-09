@@ -1,16 +1,8 @@
 public class theResult {
-    public static void main(String args[])
-    {
-        int i, j;
+    public static void main(String [] args){
+        String someTest = "test";
 
-        for(i = 0; i < 10; i++)//loop until i is greater or equal to 10
-        {
-            for(j = 0; j < i; j++) //loop until j is greater or equal to i
-            {
-                System.out.print("*");
-            }
-            System.out.println();
-        }
+        System.out.println(someTest.substring(0,1));
     }
 }
 // 1234/10=123
