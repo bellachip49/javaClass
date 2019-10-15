@@ -1,12 +1,11 @@
 public class theResult {
-    public static void main(String [] args){
-        String someTest = "test";
+    public static void main(String[] args) {
 
-        System.out.println(someTest.substring(0,1));
+        for (int i = 1; i <= 5; ++i) { //loop until i is greater than 5
+            System.out.println("Outer loop iteration " + i);
+            for (int j = 1; j <=2; ++j) { //loop until j is greater than 2
+                System.out.println("i = " + i + "; j = " + j);
+            }
+        } 
     }
 }
-// 1234/10=123
-// 1234 % 10
-// 123/10 = 12
-// 12/10 = 1
-// 1/10 = 0

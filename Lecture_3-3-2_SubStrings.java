@@ -1,4 +1,4 @@
-/*Java String substring()  From https://www.javatpoint.com/substring
+  /*Java String substring()  From https://www.javatpoint.com/substring
 The java string substring() method returns a part of the string.
 
 "Crosspoint"  "point"
@@ -39,6 +39,25 @@ public String substring(int startIndex)
 //and  
 public String substring(int startIndex, int endIndex)  
 
+String school = "Crosspoint Academy";
+String mySubString = school.substring(5, 10);
+
+//oss
+String mySub = school.substring(2, 5);
+
+//poi
+String mySub = school.substring(5, 8);
+
+//p
+String mySub = school.substring(5, 6); //to get a single letter, the numbers have to be consecutive
+
+//int
+String mySub = school.substring(7, 10);
+
+//emy
+String mySub = school.substring(15, 18);
+String mySub = school.substring(15);
+
 /* IMPORTANT TO KNOW:
 
 If you do not specify endIndex, java substring() method will return all the characters from startIndex.  
@@ -74,7 +93,7 @@ public class SubstringExample{
 Java String substring() Method Example 2
 public class SubstringExample2 {  
     public static void main(String[] args) {  
-        String s1="Crosspoint";    //C at 0, r at 1, o at 2, s at 3, s at 4, p at 5, o at 6, i at 7, n at 8, t at 9...NO 10 therefore error
+        String s1="Crosspoint";    //C at 0, r at 1, o at 2, s at 3, s at 4, p at 5, o at 6, i at 7, n at 8, t at 9...NO 10
         String substr = s1.substring(0); // Starts with 0 and goes to end  
         System.out.println(substr);  
         String substr2 = s1.substring(5,10); // Starts from 5 and goes to 10  

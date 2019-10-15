@@ -14,35 +14,36 @@ for (int i = 1; i <= 5; ++i) {
 }
 
 //COMMENT THE CODE AND FIGURE OUT THE OUTPUT
+//one off error: missed desired outcome by 1
 
 public class NestedForLoop1 {
    public static void main(String[] args) {
       
       for (int i = 1; i <= 5; ++i) { //loop until i is greater than 5
-         System.out.println("Outer loop iteration " + i);
+         System.out.println("Outer loop iteration " + i); //prints out every row
          for (int j = 1; j <=2; ++j) { //loop until j is greater than 2
-            System.out.println("i = " + i + "; j = " + j);
+            System.out.println("i = " + i + "; j = " + j); //prints out every column
          }
       }
    }
 }
 
 //Output
-// Outer loop iteration 1
-// i = 1; j = 1
-// i = 1; j = 2
-// Outer loop iteration 2
-// i = 2; j = 1
-// i = 2; j = 2
-// Outer loop iteration 3
-// i = 3; j = 1
-// i = 3; j = 2
-// Outer loop iteration 4
-// i = 4; j = 1
-// i = 4; j = 2
-// Outer loop iteration 5
-// i = 5; j = 1
-// i = 5; j = 2
+/*Outer loop iteration 1
+i = 1; j = 1
+i = 1; j = 2
+Outer loop iteration 2
+i = 2; j = 1
+i = 2; j = 2
+Outer loop iteration 3
+i = 3; j = 1
+i = 3; j = 2
+Outer loop iteration 4
+i = 4; j = 1
+i = 4; j = 2
+Outer loop iteration 5
+i = 5; j = 1
+i = 5; j = 2*/
 
 public class NestedForLoop2 {
    public static void main(String[] args) {
@@ -60,11 +61,11 @@ public class NestedForLoop2 {
    }
 }
 //Output
-// 1 
-// 1 2 
-// 1 2 3 
-// 1 2 3 4 
-// 1 2 3 4 5 
+/*1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 */
 
 public class NestedForLoop3{   
     public static void main(String args[])
@@ -83,16 +84,16 @@ public class NestedForLoop3{
 }
 //Output
 
-//
-// *
-// **
-// ***
-// ****
-// *****
-// ******
-// *******
-// ********
-// *********
+/*
+*
+**
+***
+****
+*****
+******
+*******
+********
+**********/
 
 
 
@@ -105,7 +106,7 @@ class NestedLoop {
       while (i <= 5) { //loop until i > 5
        
          System.out.println("Outer loop iteration " + i);
-         for (int j = 1; j <= 2; ++j) {
+         for (int j = 1; j <= 2; ++j) { //loop until i > 2
             System.out.println("i = " + i + "; j = " + j);
          }
          
@@ -113,6 +114,22 @@ class NestedLoop {
       }
    }
 }
-
+//Output
+/*Outer loop iteration 1
+i = 1; j = 1
+i = 1; j = 2
+Outer loop iteration 2
+i = 2; j = 1
+i = 2; j = 2
+Outer loop iteration 3
+i = 3; j = 1
+i = 3; j = 2
+Outer loop iteration 4
+i = 4; j = 1
+i = 4; j = 2
+Outer loop iteration 5
+i = 5; j = 1
+i = 5; j = 2
+*/
 
 
