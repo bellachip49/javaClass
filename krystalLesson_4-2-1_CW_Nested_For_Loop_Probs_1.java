@@ -223,16 +223,86 @@ public class Problem6{
 2 3
 4 5 6
 7 8 9 10
-11 12 13 14
-15 16 17 18 19
-20 21 22 23 24 25
-26 27 28 29 30 31 32
+11 12 13 14 15
+16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+
+public class Problem7{
+    public static void main(String [] args){
+        int counter = 1;
+        for(int i = 7; i > 0; i--){
+            for(int j = i; j < 8; j++){
+                System.out.print(counter + " ");
+                counter++;
+            }
+            System.out.println();
+        }
+    }
+}
+
+//Output
+/*1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 21 
+22 23 24 25 26 27 28 */
 
 //Problem8 Write Java code to take all the letters in a string and print them one per line.
 String name = "Crosspoint Academy";
+public class Problem8{
+  public static void main(String [] args){
+    String name = "Crosspoint Academy";
+    for(int i = 0; i <= name.length()-1; i++){
+        System.out.println(name.charAt(i));
+    }
+  }
+}
 
+//Output
+/*C
+r
+o
+s
+s
+p
+o
+i
+n
+t
+ 
+A
+c
+a
+d
+e
+m
+y*/
 //Problem9 Write Java code to replace all the "a" substrings in "California Crosspoint Academy" with the letter "b"
+//NOT A LOOP PROBLEM, LOOK FOR .replace in String documentation
+public class Problem9{
+  public static void main(String [] args){
+    String name = "California Crosspoint Academy";
+    System.out.println(name.replace('a', 'b'));
+  }
+}
+
+//Output
+// Cblifornib Crosspoint Acbdemy
 
 //Problem10 Write Java code to concatenate a given string with itself of a given number of times.  Use this string: "Hey" and concatenate 6 times.
+//NOT A NESTED LOOP...JUST A SIMPLE LOOP
+public class Problem10{
+  public static void main(String [] args){
+    String greeting = "Hey";
+    String result = "";
+    for(int i = 1; i <= 6; i++){
+        result = greeting + result;
+    }
+    System.out.println(result);
+  }
+}
 
-
+//Output
+//HeyHeyHeyHeyHeyHey
