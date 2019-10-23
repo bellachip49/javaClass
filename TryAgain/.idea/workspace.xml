@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/teacherDiamond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +40,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.teacherDiamond">
+    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diamond" />
+      <module name="TryAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teacherDiamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teacherDiamond" />
+      <module name="TryAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="theResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="theResult" />
       <module name="TryAgain" />
@@ -49,6 +64,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.teacherDiamond" />
+        <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.theResult" />
       </list>
     </recent_temporary>
