@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/teacherDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numberDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teacherDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theResult.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1SCkS88zkgcUcyBWka2TZSH0fFl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -40,9 +45,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.teacherDiamond">
+  <component name="RunManager" selected="Application.theResult">
     <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Diamond" />
+      <module name="TryAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numberDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numberDigits" />
       <module name="TryAgain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,9 +76,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.theResult" />
+        <item itemvalue="Application.numberDigits" />
         <item itemvalue="Application.teacherDiamond" />
         <item itemvalue="Application.Diamond" />
-        <item itemvalue="Application.theResult" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571074962130</updated>
     </task>
+    <task id="LOCAL-00001" summary="modify file">
+      <created>1571856699469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571856699469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify file" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify file" />
   </component>
 </project>
