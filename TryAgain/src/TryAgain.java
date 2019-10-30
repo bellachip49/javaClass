@@ -1,10 +1,9 @@
 public class TryAgain {
     public static void main (String [] args){
-        System.out.println("Hello World!");
-        int answer = 1+1;
-        System.out.println(answer);
-        String [] fruit = {"dragonfruit", "starfruit", "cherry", "apple", "strawberry", "grape", "blueberry", "orange"};
-        System.out.println("Fruit Name: "+fruit[0]);
-        System.out.println("This shop sells "+fruit[5]+" and "+fruit[3]);
+        String school = "Milhouse Academy";
+
+        for(int i = 0; i < school.length(); i++){
+            System.out.print(school.charAt(i) + " ");
+        }
     }
 }

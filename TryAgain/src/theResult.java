@@ -1,8 +1,20 @@
+import java.util.Scanner;
+
 public class theResult {
     public static void main(String [] args){
-        String myStr = "I love Java!";
+        System.out.println("Input Number:");
+        System.out.print(">>> ");
+        Scanner in = new Scanner(System.in);
+        int givenNumber = in.nextInt();
 
-        System.out.println("The length of the given string is " + myStr.length() + ".");
-        System.out.println("The fifth character of the string is " + myStr.substring(4,5) + ".");
+        for(int i = 1; i <= givenNumber; i++){
+            for(int j = 1; j <= i; j++){
+                System.out.print(givenNumber + " ");
+            }
+            System.out.println();
+        }
     }
 }
+//1 2 3 4 5
+//6 7 8 9 10
+//11 12 13 14 15

@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/numberDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teacherDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/teacherDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TryAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryAgain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/theResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../krystalLesson_4-6-1_CW_Loops_Strings_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../krystalLesson_4-6-1_CW_Loops_Strings_2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +46,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.theResult">
-    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diamond" />
+  <component name="RunManager" selected="Application.TryAgain">
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="TryAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryAgain" />
       <module name="TryAgain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,10 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryAgain" />
+        <item itemvalue="Application.Tester" />
         <item itemvalue="Application.theResult" />
         <item itemvalue="Application.numberDigits" />
         <item itemvalue="Application.teacherDiamond" />
-        <item itemvalue="Application.Diamond" />
       </list>
     </recent_temporary>
   </component>
