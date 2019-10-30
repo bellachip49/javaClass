@@ -1,7 +1,7 @@
  Lesson 4-6-2 HW Loops and Strings 1
- Name
- Date
- Class
+// Krystal
+// 10/30/19
+// Java
 
  Problem 1: Do not make a class or main method.  Use a while loop to count by three from 3 to 99
 
@@ -115,3 +115,24 @@ for(int i = 0; i < school.length(); i++){
  Bonus Extra Credit Problem
  Use a class and a main method with an int array having these values: {1, 2, 3, 4, 5, 6}.  Figure
  out how to use a loop and another array to get the numbers in reverse. {6, 5, 4, 3, 2, 1}
+
+ public class extraCredit{
+ 	public static void main (String [] args){
+        int [] oldList = {1, 2, 3, 4, 5, 6};
+        int [] newList = new int[5];
+        int index = 5;
+        for(int i = 5; i >= 0; i--){
+            newList[index-1] = oldList[i];
+            System.out.println(newList[index-1]); //prints out each value in the old list from first to last index
+        }
+    }
+ }
+
+//Output
+
+// 6
+// 5
+// 4
+// 3
+// 2
+// 1
