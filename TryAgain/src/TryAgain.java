@@ -1,12 +1,12 @@
 public class TryAgain {
-    public static void main (String [] args){
-        //{1, 2, 3, 4, 5, 6}
-        int [] oldList = {1, 2, 3, 4, 5, 6};
-        int [] newList = new int[5];
-        int index = 5;
-        for(int i = 5; i >= 0; i--){
-            newList[index-1] = oldList[i];
-            System.out.println(newList[index-1]); //prints out each value in the old list from first to last index
+    public static void main(String [] args){
+        String school = "Milhouse Academy";
+        for(int i = 0; i <= school.length() - 1; i++){
+            System.out.print(school.substring(i, i+1) + " ");
         }
     }
 }
+//**  **  **  **
+//  **  **  **  **
+//**  **  **  **
+//  **  **  **  **

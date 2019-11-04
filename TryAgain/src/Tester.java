@@ -10,7 +10,7 @@ public class Tester {
         while(number > 0){
             digit = number % 10;
             sumOfDigits += digit;
-            //System.out.println("digit is " + digit);
+            System.out.println("digit is " + digit);
             countOfDigits++;
             number /= 10;
             //System.out.println("temp is " + temp);
