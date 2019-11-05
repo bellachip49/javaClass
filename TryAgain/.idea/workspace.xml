@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lecture_5-0-0_Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../krystalLesson_4-6-2_CW_Loops_Strings_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryAgain/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TryAgain/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryAgain/TryAgain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TryAgain/TryAgain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TryAgain/theResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TryAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/theResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/theResult.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

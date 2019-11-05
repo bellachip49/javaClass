@@ -42,12 +42,12 @@ public class CarDealer{
 	private brand = "Toyota";
 
 	//a method to do something with the data, but does not have to be the main method
-	public myMethod()
+	public myMethod()//has parentheses, not curly braces because it is a method
 	{
 
 	}
 }
-
+//classes don't have parentheses; methods do
 Why use the private access modifier?
 
 Encapsulation: another name for data hiding.  The variables of the class will be hidden
@@ -79,7 +79,7 @@ public class Student{
 	}
 
 	//"setter" method for name
-	public String setName(String newName)
+	public void setName(String newName)
 	{
 		this.name = newName;
 	}
