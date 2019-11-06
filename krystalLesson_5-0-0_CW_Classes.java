@@ -64,5 +64,22 @@ class Animal{
 /*
 Methods do something
 instance is the information in an object
+primitives are predefined
+non primitive are created by the programmer; not defined by Java
+Strings, arrays, and class are nonprimitives
+usually don't add access modifier in front of method
+*/
 
+int addition(arg){
+	return a + b;
+}
+
+/*
+the int is the return type(the data type that will be returned)
+static and final are also modifiers
+final is when you don't want to change the value
+abstract - used by program leaders to tell junior programmers what to do (don't need to know this yet)
+data can be all but static
+
+encapsulation is when no one can see the data and are not allowed to overwrite the contents
 */
