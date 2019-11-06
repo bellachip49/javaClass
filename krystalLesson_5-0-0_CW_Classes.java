@@ -37,3 +37,32 @@ Answer each of the following questions:
 //type and variable inside the parentheses after a method name
 14. What does the keyword this refer to?
 //the current object
+
+class Animal{
+	//A: Data
+	private int numberOfLegs;
+	private double neckLength;
+	private String name;
+
+	//B: constructor
+	Animal(){
+
+	}
+
+	//C: getter
+	int getThatInt()
+	{
+		return numberOfLegs;
+	}
+
+	//D: setter
+	void setThatInt(int newInt){
+		this.numberOfLegs = newInt;
+	}
+}
+
+/*
+Methods do something
+instance is the information in an object
+
+*/

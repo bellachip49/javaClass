@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/AnimalKingdom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/src/AnimalKingdom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalKingdom/src/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../krystalLesson_5-0-0_CW_Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../krystalLesson_5-0-0_CW_Classes.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

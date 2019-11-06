@@ -83,6 +83,10 @@ public class Student{
 	{
 		this.name = newName;
 	}
+	int myMethod(put parameters here)
+	{
+		//do something with the parameters
+	}
 }
 
 New Ideas:
