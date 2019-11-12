@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/MathCreator1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/src/DoSomeMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/src/DoSomeMoreMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathCreator1/src/MathCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenesisCreator/GenesisCreator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenesisCreator/src/Genesis1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenesisCreator/src/Genesis2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenesisCreator/src/GenesisCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MathCreator1/src/MathCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MathCreator1/src/MathCreator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../krystalLesson_5-0-0_CW_Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../krystalLesson_5-0-0_CW_Classes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../krystalLesson_5-0-1_CW_Java_Classes_Methods_and_Instance_Va.java" beforeDir="false" afterPath="$PROJECT_DIR$/../krystalLesson_5-0-1_CW_Java_Classes_Methods_and_Instance_Va.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
