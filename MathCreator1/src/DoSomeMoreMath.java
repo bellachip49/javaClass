@@ -1,4 +1,20 @@
-package PACKAGE_NAME;
+public class DoSomeMoreMath
+{
+    //fields
+    private int num = 6;
 
-public class DoSomeMoreMath {
+    //constructor
+    public DoSomeMoreMath()
+    {}
+
+    //methods
+    public int getThatNum()
+    {
+        return num;
+    }
+
+    public void setThatNum(int newNum)
+    {
+        this.num = newNum;
+    }
 }

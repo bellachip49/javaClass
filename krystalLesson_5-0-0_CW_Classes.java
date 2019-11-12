@@ -82,4 +82,27 @@ abstract - used by program leaders to tell junior programmers what to do (don't 
 data can be all but static
 
 encapsulation is when no one can see the data and are not allowed to overwrite the contents
+
+an object in Java is a physical as well as a logicl entity, whereas, a class in Java is a logical entity only
+
+3 Characteristics of Objects:
+- state: represents the data (value) of an object
+- behavior: represents the behavior (functionality) of an object such as deposit, withdraw, etc.
+- identity: an object identity is typically implemented via a unique ID; it has a name
+
+object is a result of a class and a real world entity(something you can touch)
+runtime: object doesn't come into existence until you run the program
+
+class in Java can contain fields, methods, constructors, blocks, and nested class and interface
+- fields(means variables: int double, array, String etc.)
+- methods
+- constructors
+(don't need to know nested class yet)
+
+Instance variable = a variable which is created inside the class but outside the method
+Method = a function which is used to expose the behavior of an object
+
+new keyword is used to allocate memory at runtime. All objects get memory in Heap memory area!
+
+for loops and methods get memory from stack memory (don't need to know this)
 */
