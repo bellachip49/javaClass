@@ -22,5 +22,7 @@ public class MethodExamples {
         System.out.println(numEx.multTwoNumbersTwoParam(3, 8));
         System.out.println(numEx.multTwoNum());
         System.out.println(numEx.multTwoNumbersWithOneParam(4));
+
+        System.out.println("num1 to the power of num2 is " + numEx.firstToPowerOfSecond(8,9) + ".");
     }
 }
