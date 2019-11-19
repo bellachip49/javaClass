@@ -4,13 +4,20 @@ public class ArrayExample {
     double [] doubArray = new double[10];  //includes declaration and instantiation only
     int[][] nestArray;
     //constructor
+    ArrayExample(){
+
+    }
 
     //getters
     int[] getIntArray()
     {
         return intArray;
     }
+
     //write the doubArray getter here:
+    public double[] getDoubArray() {
+        return doubArray;
+    }
 
     //setters
     void setIntArray(int[] newArray)
