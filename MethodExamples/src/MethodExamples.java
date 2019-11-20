@@ -4,7 +4,7 @@ public class MethodExamples {
         //make objects
         NumbersExample numEx = new NumbersExample();
         StringExamples strEx = new StringExamples();
-        StringExamples arrayEx = new StringExamples();
+        ArrayExample arrEx = new ArrayExample();
 
         //use objects
         //Number examples
@@ -24,5 +24,11 @@ public class MethodExamples {
         System.out.println(numEx.multTwoNumbersWithOneParam(4));
 
         System.out.println("num1 to the power of num2 is " + numEx.firstToPowerOfSecond(8,9) + ".");
+
+        //Array examples
+        arrEx.printArray(arrEx.getIntArray());
+
+        arrEx.printNestedArray(arrEx.createNestedArray());
+        arrEx.printArray(arrEx.getIntArray());
     }
 }

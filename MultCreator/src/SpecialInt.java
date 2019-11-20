@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class SpecialInt {
     //field
-    private int myInt;
+    private int myInt = 9;
     //constructor
     SpecialInt(){
 
@@ -11,5 +13,12 @@ public class SpecialInt {
     }
     void setMyInt(int newmyInt){
         this.myInt = newmyInt;
+    }
+
+    int getIntFromUser(){
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter number: \n>>> ");
+
+        return input.nextInt();
     }
 }
