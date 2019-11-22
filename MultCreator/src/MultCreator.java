@@ -10,5 +10,11 @@ public class MultCreator {
         //variable to be entered
         //print out the multiplication table
         table.makeMultTable(spin.getIntFromUser());
+
+        int count = 0;
+        while(count < 3){
+            table.makeMultTable(spin.getIntFromUser());
+            count++;
+        }
     }
 }

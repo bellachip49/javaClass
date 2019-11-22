@@ -17,7 +17,7 @@ public class SpecialInt {
 
     int getIntFromUser(){
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter number: \n>>> ");
+        System.out.println("Enter an integer: \n>>> ");
 
         return input.nextInt();
     }
