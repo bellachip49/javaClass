@@ -1,24 +1,28 @@
 import java.util.Scanner;
 
-public class SpecialInt {
-    //field
-    private int myInt = 9;
-    //constructor
-    SpecialInt(){
+class SpecialInt {
 
-    }
-    //method
-    int getMyInt(){
+    //fields
+    private int myInt = 4;  //any name for the int is okay
+
+    //constructor
+    SpecialInt()  //do not use the name of the constructor for the name of another method
+    {}
+
+    //getters & setters
+    int getThatInt()  //any name is okay as long as it has the word get in it
+    {
         return myInt;
     }
-    void setMyInt(int newmyInt){
-        this.myInt = newmyInt;
+    void setThatInt(int newInt)  //can name newInt any name you want
+    {
+        this.myInt = newInt;
     }
-
-    int getIntFromUser(){
+    //methods
+    int getIntFromUser()
+    {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter an integer: \n>>> ");
-
+        System.out.println("Please enter an integer between 1 and 1000");
         return input.nextInt();
     }
 }
