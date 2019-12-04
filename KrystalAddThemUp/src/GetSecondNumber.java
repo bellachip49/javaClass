@@ -21,9 +21,8 @@ public class GetSecondNumber {
 
     //other methods
     int askSecond(){
-        System.out.println("Enter second integer:");
+        System.out.println("Enter the second integer:");
         num2 = input.nextInt();
-        System.out.println(num2);
         return num2;
     }
 }

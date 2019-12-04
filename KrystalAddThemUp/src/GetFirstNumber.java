@@ -23,9 +23,8 @@ public class GetFirstNumber {
 
     //other methods
     int askFirst(){
-        System.out.println("Enter first integer:");
+        System.out.println("Enter the first integer:");
         num1 = input.nextInt();
-        System.out.println(num1);
         return num1;
     }
 }

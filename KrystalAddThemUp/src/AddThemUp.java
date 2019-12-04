@@ -7,5 +7,7 @@ public class AddThemUp {
         //use objects
         firNum.askFirst();
         secNum.askSecond();
+
+        System.out.println("The sum is " + (firNum.getNum1() + secNum.getNum2()) + ".");
     }
 }
