@@ -1,10 +1,8 @@
-import com.sun.media.sound.SF2InstrumentRegion;
-
 import java.util.Scanner;
-public class GetFirstNumber {
+class GetFirstNumber {
     //fields
     private int num1;
-    Scanner input = new Scanner(System.in);
+    private Scanner input = new Scanner(System.in);
 
     //constructor
     GetFirstNumber(){

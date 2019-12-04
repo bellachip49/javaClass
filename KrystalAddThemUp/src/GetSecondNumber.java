@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class GetSecondNumber {
+class GetSecondNumber {
     //field
     private int num2;
     private Scanner input = new Scanner(System.in);
