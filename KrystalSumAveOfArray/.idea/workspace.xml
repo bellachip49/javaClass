@@ -1,9 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ecd6341-b872-4696-b795-9c984049ab3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/KrystalModifyStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/KrystalModifyStrings.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/out/production/KrystalModifyStrings/modString1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/out/production/KrystalModifyStrings/modString2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/out/production/KrystalModifyStrings/modifyStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/src/modString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/src/modString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalModifyStrings/src/modifyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KrystalSumAveOfArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KrystalSumAveOfArray/AveOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KrystalSumAveOfArray/SumAveOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KrystalSumAveOfArray/SumOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AveOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumAveOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalRockPaperScissors/out/production/KrystalRockPaperScissors/PlayGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalRockPaperScissors/out/production/KrystalRockPaperScissors/PlayGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalRockPaperScissors/out/production/KrystalRockPaperScissors/RockPaperScissors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalRockPaperScissors/out/production/KrystalRockPaperScissors/RockPaperScissors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalRockPaperScissors/src/PlayGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalRockPaperScissors/src/PlayGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalRockPaperScissors/src/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalRockPaperScissors/src/RockPaperScissors.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Ul3QSws9wN7mBmcNtAfEfSPqvC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SumAveOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumAveOfArray" />
+      <module name="KrystalSumAveOfArray" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumAveOfArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ecd6341-b872-4696-b795-9c984049ab3c" name="Default Changelist" comment="" />
+      <created>1575917337961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575917337961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

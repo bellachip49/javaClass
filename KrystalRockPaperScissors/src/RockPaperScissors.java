@@ -5,6 +5,8 @@ public class RockPaperScissors {
         PlayGame playGame = new PlayGame();
 
         //use objects
+        playGame.setComputerAnswer();
+        playGame.compGenAnswer();
         playGame.answerComparison(usrAns.askForInput());
     }
 }

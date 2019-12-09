@@ -1,14 +1,38 @@
+import java.lang.Math.*;
+
 class PlayGame {
     //fields
-    String computerAnswer = "r";
+    private String computerAnswer;
+    private int max = 3;
+    private int min = 1;
+    private int range = max - min + 1;
+    private int rand;
+
     //constructor
     PlayGame(){
 
     }
-    //no getters or setters
+    //getter
+    String getComputerAnswer(){
+        return computerAnswer;
+    }
+
+    //setter
+    void setComputerAnswer(){
+        rand = (int)(Math.random() * range) + min;
+        if(rand == 1){
+            computerAnswer = "r";
+        }
+        else if(rand == 2){
+            computerAnswer = "p";
+        }
+        else{
+            computerAnswer = "s";
+        }
+    }
 
     //other methods
-    void answerComparison(String usrGuess){
+    void answerComparison(String usrGuess){ //computer has a set answer
         if(usrGuess.equalsIgnoreCase(computerAnswer)){
             System.out.println("It's a draw.");
         }
@@ -20,6 +44,18 @@ class PlayGame {
         }
         else{
             System.out.println("Invalid input.");
+        }
+    }
+
+    void compGenAnswer(){
+        if(rand == 1){
+            computerAnswer = "r";
+        }
+        else if(rand == 2){
+            computerAnswer = "p";
+        }
+        else{
+            computerAnswer = "s";
         }
     }
 }
