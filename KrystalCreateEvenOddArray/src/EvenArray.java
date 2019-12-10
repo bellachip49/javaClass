@@ -1,4 +1,4 @@
-public class EvenArray {
+class EvenArray {
     //make array here
     //fields (set size of array)
     private int [] list = new int[101];

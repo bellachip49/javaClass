@@ -22,7 +22,7 @@ class SumOfArray {
 
     //other methods
     int arraySum(int [] newArray){
-        for(int i = 0; i < myArray.length; i++){
+        for(int i = 0; i < newArray.length; i++){
             theSum += newArray[i];
         }
         return theSum;

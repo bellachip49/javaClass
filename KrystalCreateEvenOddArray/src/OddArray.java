@@ -1,4 +1,4 @@
-public class OddArray {
+class OddArray {
     //field
     private int index = 0;
     //change array here; don't define it
