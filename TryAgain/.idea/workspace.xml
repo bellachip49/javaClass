@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../GenesisCreator/src/GenesisCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenesisCreator/src/GenesisCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Checkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalSumAveOfArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalSumAveOfArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TryAgain/TryAgain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TryAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryAgain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.theResult">
+  <component name="RunManager" selected="Application.TryAgain">
     <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tester" />
       <module name="TryAgain" />
@@ -80,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.theResult" />
         <item itemvalue="Application.TryAgain" />
+        <item itemvalue="Application.theResult" />
         <item itemvalue="Application.Tester" />
         <item itemvalue="Application.numberDigits" />
         <item itemvalue="Application.teacherDiamond" />
