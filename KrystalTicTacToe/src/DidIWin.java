@@ -3,6 +3,11 @@ class DidIWin {
     private String status = "null";
     private int spaceCount = 0;
 
+    //constructor
+    DidIWin(){
+
+    }
+
     //no getter or setter
 
     //other methods
