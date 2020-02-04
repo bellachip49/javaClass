@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cade3670-5962-47a1-aa12-4a2b7367b55e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/KrystalConnectFour/ConnectFour.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KrystalConnectFour/Gameboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AskPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DidIWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/KrystalRegularPolygon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/out/production/KrystalRegularPolygon/AskForInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/out/production/KrystalRegularPolygon/FindPolygonArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/out/production/KrystalRegularPolygon/RegularPolygon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/src/AskForInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/src/FindPolygonArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/src/RegularPolygon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConnectFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConnectFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gameboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gameboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KrystalTicTacToe/out/production/KrystalTicTacToe/DidIWin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalTicTacToe/out/production/KrystalTicTacToe/DidIWin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KrystalTicTacToe/out/production/KrystalTicTacToe/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalTicTacToe/out/production/KrystalTicTacToe/TicTacToe.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
