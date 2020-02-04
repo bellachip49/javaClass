@@ -4,6 +4,7 @@ class AskForInput {
     //fields
     private Scanner input = new Scanner(System.in);
     private int numOfSides = 0;
+    private double sideLen = 0;
 
     //constructor
     AskForInput(){
@@ -18,13 +19,26 @@ class AskForInput {
     //no setter
 
     //other methods
-    int numOfSides(){
+    int numOfSides() {
         System.out.println("Enter a value for the number of sides on the polygon.");
-        numOfSides = input.nextInt();
+        for (; numOfSides <= 2;){
+            numOfSides = input.nextInt();
+            if(numOfSides <= 2){
+                System.out.println("Invalid Input.");
+                System.out.println("Enter a value for the number of sides on the polygon.");
+            }
+        }
         return numOfSides;
     }
     double lenOfSide(){
         System.out.println("Enter a value for the length of the side.");
-        return input.nextDouble();
+        for(; sideLen < 1;){
+            sideLen = input.nextDouble();
+            if(sideLen < 1){
+                System.out.println("Invalid Input.");
+                System.out.println("Enter a value for the length of the side.");
+            }
+        }
+        return sideLen;
     }
 }

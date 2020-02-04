@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc5ea046-b886-496d-9728-31b49945a67d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KrystalRegularPolygon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KrystalRegularPolygon/AskForInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KrystalRegularPolygon/FindPolygonArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/KrystalRegularPolygon/RegularPolygon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AskForInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindPolygonArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegularPolygon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KrystalRegularPolygon/AskForInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KrystalRegularPolygon/AskForInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AskForInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AskForInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegularPolygon.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

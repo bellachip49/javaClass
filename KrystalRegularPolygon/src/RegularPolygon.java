@@ -14,9 +14,9 @@ public class RegularPolygon {
         "input" Scanner variable takes and stores the user input
         numOfSides variable records number of sides and returns it
         asks user to input num of sides for polygon
-        returns num of sides
+        returns num of sides (keeps looping if input invalid)
         asks the user to input a side for the polygon
-        returns the value of the given side
+        returns the value of the given side (keeps looping if input invalid)
 
         FindPolygonArea:
         calculates polygon area and returns it
