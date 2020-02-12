@@ -6,6 +6,7 @@ public class GuessTheWord {
 
         //use objects
         //makeGuess.startGame(someColor.findColor());
-        System.out.println(someColor.findColor()); //line of code to check random color generator
+        //System.out.println(someColor.findColor()); //line of code to check random color generator
+        makeGuess.startGame(someColor.findColor());
     }
 }

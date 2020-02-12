@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc5ea046-b886-496d-9728-31b49945a67d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/BinaryTicTicToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/src/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/KrystalPrimeNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/GetValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/PrimeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/SumPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KrystalRegularPolygon/AskForInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KrystalRegularPolygon/AskForInput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AskForInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AskForInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegularPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KrystalRegularPolygon.zip" beforeDir="false" afterPath="$PROJECT_DIR$/KrystalRegularPolygon.zip" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +43,8 @@
   <component name="ProjectId" id="1XJFJoAmtqQxsyRDvzBroVtfDIV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -74,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cade3670-5962-47a1-aa12-4a2b7367b55e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/BinaryTicTicToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/src/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b6695bf0-f0a2-4017-9395-c1236043f7a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTicTicToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KrystalRegularPolygon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KrystalRegularPolygon/KrystalRegularPolygon.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalRegularPolygon/KrystalRegularPolygon.zip" afterDir="false" />
     </list>
@@ -20,22 +20,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1X2I78HYnwJKhvoYcfSXnZRWVtC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1XOvczDR5Ds3xbhTQbO0pycSYo4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,16 +44,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ConnectFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConnectFour" />
-      <module name="KrystalConnectFour" />
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="BinaryTicTicToe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConnectFour" />
+        <item itemvalue="Application.TicTacToe" />
       </list>
     </recent_temporary>
   </component>
@@ -71,11 +62,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cade3670-5962-47a1-aa12-4a2b7367b55e" name="Default Changelist" comment="" />
-      <created>1580237592784</created>
+      <changelist id="b6695bf0-f0a2-4017-9395-c1236043f7a9" name="Default Changelist" comment="" />
+      <created>1580930038343</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580237592784</updated>
+      <updated>1580930038343</updated>
     </task>
     <servers />
   </component>
@@ -91,8 +82,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
