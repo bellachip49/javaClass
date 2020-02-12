@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc5ea046-b886-496d-9728-31b49945a67d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/BinaryTicTicToe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BinaryTicTicToe/src/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/KrystalPrimeNumbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/GetValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/PrimeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KrystalPrimeNumbers/src/SumPrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalConnectFour/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KrystalRegularPolygon.zip" beforeDir="false" afterPath="$PROJECT_DIR$/KrystalRegularPolygon.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalGuessTheWord/KrystalGuessTheWordVER3.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalGuessTheWord/KrystalGuessTheWord.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

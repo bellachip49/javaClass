@@ -7,7 +7,9 @@ public class PrimeNumbers {
         //use objects
         int min = usrInput.getMinFromUser();
         int max = usrInput.getMaxFromUser(min);
-        makePrime.printArray(makePrime.makeArrayToUse(min, max));
+        int index = max - min;
+        //makePrime.printArray(makePrime.makeArrayToUse(min, max));
+        makePrime.printArray(makePrime.makePrimeArray(makePrime.makeArrayToUse(min, max), index));
 
     }
 }

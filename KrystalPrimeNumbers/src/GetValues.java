@@ -5,7 +5,7 @@ class GetValues {
     Scanner input = new Scanner(System.in);
     private int max;
 
-    //constuctor
+    //constructor
     GetValues(){
 
     }
@@ -16,11 +16,11 @@ class GetValues {
 
     //other methods
     int getMinFromUser(){
-        System.out.print("Enter a minimum value: ");
+        System.out.println("Enter a minimum value: ");
         return (int)input.nextDouble();
     }
     int getMaxFromUser(int theMin){
-        System.out.print("Enter a maximum value: ");
+        System.out.println("Enter a maximum value: ");
         max = (int)input.nextDouble();
         while(theMin > max) {
             System.out.println("Invalid Value. Max must be greater or equal to min number. \n");
