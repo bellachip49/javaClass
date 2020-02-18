@@ -1,6 +1,3 @@
-import java.lang.Math;
-import java.util.ArrayList;
-
 class PrimeArray {
     //fields
     private boolean isComposite = false;
@@ -10,9 +7,7 @@ class PrimeArray {
 
     }
 
-    //getter
-
-    //setter
+    //no getter or setter
 
     //other methods
     int[] makeArrayToUse(int min, int max){
@@ -24,21 +19,21 @@ class PrimeArray {
     }
 
     //Mrs. Carlson's code
-    private boolean isPrime(int number) {
-        if (number == 2 || number == 3) {  //deal with the simple primes first
-            return true;
-        }
-        if (number % 2 == 0) {  //get rid of the even numbers
-            return false;
-        }
-        int sqrt = (int) Math.sqrt(number) + 1;  //only have to do up to the sqrt of the max num
-        for (int i = 3; i < sqrt; i += 2) { //count by twos to eliminate even numbers
-            if (number % i == 0) {  //if divisible by anything, not prime
-                return false;
-            }
-        }
-        return true;
-    }
+//    private boolean isPrime(int number) {
+//        if (number == 2 || number == 3) {  //deal with the simple primes first
+//            return true;
+//        }
+//        if (number % 2 == 0) {  //get rid of the even numbers
+//            return false;
+//        }
+//        int sqrt = (int) Math.sqrt(number) + 1;  //only have to do up to the sqrt of the max num
+//        for (int i = 3; i < sqrt; i += 2) { //count by twos to eliminate even numbers
+//            if (number % i == 0) {  //if divisible by anything, not prime
+//                return false;
+//            }
+//        }
+//        return true;
+//    }
 
     int [] makePrimeArray(int [] givenArray, int index){
         int [] primeList = new int[index + 1];
@@ -49,7 +44,7 @@ class PrimeArray {
                     isComposite = true;
                     break;
                 }
-            } //working version :)
+            }
             if(!isComposite){
                 primeList[j] = givenArray[i];
                 j++;
