@@ -13,7 +13,6 @@ public class PrimeNumbers {
         makePrime.printArray(makePrime.makePrimeArray(makePrime.makeArrayToUse(min, max), index));
         System.out.println("\nThe sum of the primes in the given range is " + (sum.sumOfPrimes(makePrime.makePrimeArray(makePrime.makeArrayToUse(min, max), index))) + ".");
 
-        //sum works but we need a print statement indicating a sum
         /*
         README
         PrimeArray class:
