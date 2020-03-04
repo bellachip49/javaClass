@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class SumPrimes {
     //fields
     private int sum = 0;
@@ -10,7 +12,7 @@ class SumPrimes {
     //setter
 
     //other methods
-    int sumOfPrimes(int [] primeArray){
+    int sumOfPrimes(ArrayList<Integer> primeArray){
         for(int item : primeArray){
             sum += item;
         }

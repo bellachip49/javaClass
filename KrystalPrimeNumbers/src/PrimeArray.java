@@ -1,6 +1,9 @@
+import java.util.ArrayList;
+
 class PrimeArray {
     //fields
     private boolean isComposite = false;
+    private ArrayList<Integer> primeList = new ArrayList<Integer>();
 
     //constructor
     PrimeArray(){
@@ -35,9 +38,23 @@ class PrimeArray {
 //        return true;
 //    }
 
-    int [] makePrimeArray(int [] givenArray, int index){
-        int [] primeList = new int[index + 1];
-        for(int i = 0, j = 0; i < givenArray.length; i++){
+    ArrayList<Integer> makePrimeArray(int [] givenArray){
+        primeList.clear(); //empty the list of any preexisting elements
+        /*
+        Note on the "clear" on the line above (if you wanted to know why)
+        Apparently there was a logic error(logic error = program ran smoothly, but the output you wanted wasn't right)
+        that caused the values in the list to get duplicates, making the sum incorrect. I realized they
+        made duplicates so I printed it out as the first line following the method "title". The console
+        printed out the values already existing on the list, and turns out all the prime values were
+        already in there. So I decided to clear any preexisting values in the array list. (Mysteriously
+        the print statement said nothing about this(they never actually mentioned duplicates!) There is an
+        alternative way to go around this, which is to divide the final sum by two, successfully removing
+        the sum that the duplicates made. (One may say the "wrong" duplicate sum divided by two may result
+        in a decimal, or, 0.5, but remember that the "correct" sum, with no duplicates, is either even or odd.
+        Thus, because these two sums making up the duplicate sum is COMPLETELY IDENTICAL, it MUST be able to be
+        EVENLY DIVIDED BY TWO. (odd + odd = even, even + even = even). In the end, both methods work out.
+         */
+        for(int i = 0; i < givenArray.length; i++){
             //Code copied & modified from: https://www.programiz.com/java-programming/examples/prime-number
             for(int k = 2; k <= (givenArray[i]/2); k++) {
                 if(givenArray[i] % k == 0){
@@ -46,24 +63,20 @@ class PrimeArray {
                 }
             }
             if(!isComposite){
-                primeList[j] = givenArray[i];
-                j++;
+                primeList.add(givenArray[i]);
             }
             isComposite = false;
         }
         return primeList;
     }
 
-    void printArray(int [] givenArray){
-        if(givenArray[0] == 0){
+    void printArray(ArrayList<Integer> givenArray){
+        if(givenArray.size() == 0){
             System.out.println("There were no prime numbers in the given range.");
         }
         else {
             System.out.println("\nHere is the list of prime numbers:");
             for (int value : givenArray) {
-                if (value == 0) {
-                    continue;
-                }
                 System.out.println(value);
             }
         }

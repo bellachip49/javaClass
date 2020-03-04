@@ -8,17 +8,16 @@ public class PrimeNumbers {
         //use objects
         int min = usrInput.getMinFromUser();
         int max = usrInput.getMaxFromUser(min);
-        int index = max - min;
         //makePrime.printArray(makePrime.makeArrayToUse(min, max));
-        makePrime.printArray(makePrime.makePrimeArray(makePrime.makeArrayToUse(min, max), index));
-        System.out.println("\nThe sum of the primes in the given range is " + (sum.sumOfPrimes(makePrime.makePrimeArray(makePrime.makeArrayToUse(min, max), index))) + ".");
+        makePrime.printArray(makePrime.makePrimeArray(makePrime.makeArrayToUse(min, max)));
+        System.out.println("\nThe sum of the prime(s) in the given range is " + (sum.sumOfPrimes(makePrime.makePrimeArray(makePrime.makeArrayToUse(min, max)))) + ".");
 
         /*
         README
         PrimeArray class:
         isComposite variable determines whether the specified item in the array is composite; it is false by default
         makeArrayToUse method makes an array in the range given by the user
-        makePrimeArray class looks at each value of the given array and only adds primes into a new array
+        makePrimeArray class looks at each value of the given array and only adds primes into a new array list
         printArray class prints out each value in the specified array using a foreach loop
 
         GetValues class:
