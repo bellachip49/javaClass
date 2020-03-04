@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class Camel {
+public class Camel extends Animal{
 }
