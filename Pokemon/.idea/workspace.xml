@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59c34eb2-a5ac-448b-be07-fa7e8c703e2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../KrystalAnimals/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalAnimals/src/AnimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumPractice/src/EnumClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumPractice/src/GetData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumPractice/src/IfClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/KrystalEnumProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/Canary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/Chickadee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/EnumClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/Finch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/GetDataClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/IfClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/KrystalEnumProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/Parakeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/ReadMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalEnumProject/src/Robin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalEnumPractice/src/EnumPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalEnumPractice/src/EnumPractice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8PHNRwIHlx0bY1U5tI9q824oB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59c34eb2-a5ac-448b-be07-fa7e8c703e2e" name="Default Changelist" comment="" />
+      <created>1588010659179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588010659179</updated>
+    </task>
+    <servers />
+  </component>
+</project>
