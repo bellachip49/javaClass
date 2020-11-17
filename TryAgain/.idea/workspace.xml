@@ -2,13 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdb0bc2-1d15-40d1-b095-5e3afdae8036" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Checkers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KrystalSumAveOfArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KrystalSumAveOfArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFExam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFExam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFExam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFExam/src/KrystalFinalExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/src/Artists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/src/BenjaminWest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/src/KrystalFinalExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KrystalFinalExam/src/Michelangelo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnimalKingdom/AnimalKingdom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryTicTicToe/BinaryTicTicToe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryTicTicToe/BinaryTicTicToe.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenesisCreator/GenesisCreator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenesisCreator/KrystalCreateEvenOddArray.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenesisCreator/krystalGenesisCreator.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalAddThemUp/AddThemUp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalAddThemUp/KrystalAddThemUp.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalAdding_Binary_Numbers.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalAdding_Hexadecimal_Numbers.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalAdding_Octal_Numbers.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalAnimals/KrystalAnimals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalBinarySearchNotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh1JavaNotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh1NotesPt2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh1NotesPt3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh1NotesPt4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh2NotesPt1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh2NotesPt2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh2NotesPt3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCh2NotesPt4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalConnectFour/KrystalConnectFour.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalCreateEvenOddArray/KrystalCreateEvenOddArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalEnumPractice/KrystalEnumPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalEnumPractice/KrystalEnumPractice.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalEnumProject/KrystalEnumProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalEnumProject/KrystalEnumProject.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFileHandle/KrystalFileHandle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFileHandle/KrystalFileHandle.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFileHandle/out/production/KrystalFileHandle/META-INF/KrystalFileHandle.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFinalProject/KrystalFinalProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFinalProject/out/production/KrystalFinalProject/META-INF/KrystalFinalProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFindHexArea/KrystalFindHexArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFindHexArea/KrystalFindHexArea.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFishPond/KrystalFishPond.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalFishPond/KrystalFishPond.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalGuessTheWord/KrystalGuessTheWord.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalGuessTheWord/KrystalGuessTheWordVER3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalModifyStrings/KrystalModifyStrings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalModifyStrings/KrystalModifyStrings.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalPokemon/KrystalPokemon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalPokemon/KrystalPokemon.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalPrimeNumbers/KrystalPrimeNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalPrimeNumbers/KrystalPrimeNumbers.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalPrimeNumbers/KrystalPrimeNumbersVER2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalPrimeNumbers/KrystalPrimeNumbersVER3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalProcessArray/KrystalProcessArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalProcessArray/KrystalProcessArray.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalRegularPolygon/KrystalRegularPolygon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalRegularPolygon/KrystalRegularPolygon.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalRockPaperScissors/KrystalRockPaperScissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalSumAveOfArray/KrystalSumAveOfArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalSumAveOfArray/KrystalSumAveOfArray.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalTicTacToe/KrystalTicTacToe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalTicTacToe/KrystalTicTacToe.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KrystalTicTacToe/KrystalTicTacToeVER2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_1-1-3__Data_Storage_Intro_to_Arrays.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson_1-0-1_Reading_Code.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MathCreator1/MathCreator1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodExamples/MethodExamples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultCreator/KrystalMultCreator.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultCreator/MultCreator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultCreator/out/production/MultCreator/META-INF/MultCreator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SampleProject1/SampleProject1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TryAgain/TryAgain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TryAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ZooKeeper/ZooKeeper.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$ystalCh1NotesPt2.docx" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,22 +104,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.TryAgain">
     <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -91,6 +160,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -117,13 +187,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modify file" />
